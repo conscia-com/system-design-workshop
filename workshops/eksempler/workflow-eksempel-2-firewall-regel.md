@@ -12,6 +12,10 @@ Oprette/ændre en firewall-regel mellem to zoner med sporbarhed, godkendelse og 
 
 Bestilling via API: "Åbn TCP 443 fra App A til API B".
 
+## Udføres af
+
+Automatisering (med godkendelse fra security team)
+
 ## Mål og færdig
 
 Regel er implementeret på korrekt firewall/policy-set, change er dokumenteret, og trafik er verificeret (eller bekræftet via logs).

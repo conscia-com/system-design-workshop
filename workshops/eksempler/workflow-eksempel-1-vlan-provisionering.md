@@ -12,6 +12,10 @@ Oprette en ny VLAN i det rigtige netværksdomæne og få den aktiv på relevante
 
 Bestilling i frontend: "Ny VLAN til system X".
 
+## Udføres af
+
+Netværksteam + automatisering (med godkendelse fra netværksansvarlig)
+
 ## Mål og færdig
 
 VLAN-ID/subnet er reserveret, konfig er lagt på relevante switche, routing/ACL er på plads, og ændringen er registreret i IPAM/CMDB.
