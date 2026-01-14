@@ -12,7 +12,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 
 ---
 
-## Dagsagenda (09:00–16:00)
+## Dagsagenda (09:00–15:30)
 
 |Tid|Punkt|
 |---|---|
@@ -24,7 +24,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 |12:45–14:15|Workflows runde 3|
 |14:15–14:30|Pause|
 |14:30–15:15|Systemer, integrationer og afhængigheder|
-|15:15–16:00|Afrunding|
+|15:15–15:30|Afrunding|
 
 ---
 

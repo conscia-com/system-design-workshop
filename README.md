@@ -8,8 +8,8 @@ Denne repo indeholder materialer til en workshop, hvor vi beskriver workflows so
 2. Brug skabelonen til hvert workflow: [workshops/skabeloner/workflow-skema.md](workshops/skabeloner/workflow-skema.md)
 3. Se eksempler på udfyldte workflows:
 
-- [workshops/eksempler/workflow-eksempel-1-vlan-provisionering.md](workshops/eksempler/workflow-eksempel-1-vlan-provisionering.md)
-- [workshops/eksempler/workflow-eksempel-2-firewall-regel.md](workshops/eksempler/workflow-eksempel-2-firewall-regel.md)
+    - [workshops/eksempler/workflow-eksempel-1-vlan-provisionering.md](workshops/eksempler/workflow-eksempel-1-vlan-provisionering.md)
+    - [workshops/eksempler/workflow-eksempel-2-firewall-regel.md](workshops/eksempler/workflow-eksempel-2-firewall-regel.md)
 
 ## Sådan kører vi Workshop 1
 
