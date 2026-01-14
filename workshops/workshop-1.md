@@ -104,3 +104,8 @@ Inden for 1–3 arbejdsdage samles og deles:
 ## Skabeloner
 
 - [Skabelon: Workflow-skema](skabeloner/workflow-skema.md)
+
+## Til næste gang
+
+1. Workflows skal refineres færdig og manglende workflows skal tilføjes til MVP
+2. Arkitekturdiagrammer med de integrationspunkter i scope
