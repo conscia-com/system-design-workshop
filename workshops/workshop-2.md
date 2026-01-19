@@ -224,6 +224,48 @@ I stedet for at lave én stor plan på forhånd:
 
 ## Del 3: Arkitektur – Fra workflows til applikation
 
+### Slide: Fra workflows til applikation
+
+#### Formål
+
+Nu hvor vi har identificeret workflows og brugerrejser, skal vi forstå hvordan de hænger sammen som en samlet applikation.
+
+#### Dimensioner at betragte
+
+- **Integration points**: Hvor kobler workflows sig til eksterne systemer?
+- **Dependency chains**: Hvilke workflows afhænger af hinanden?
+- **Data complexity**: Hvor komplekse er datastrukturerne?
+- **Data location**: Hvor ligger data, og hvor skal det hentes fra?
+- **Flows**: Hvordan flyder data gennem systemet?
+- **Asynchronicity**: Hvilke operationer kan køre asynkront vs. synkront?
+- **Behavioral patterns**: Hvilke mønstre gentager sig på tværs af workflows?
+- **Constraints**: Hvilke begrænsninger skal vi tage højde for?
+  - Sikkerhed: Adgangskontrol, datakryptering, audit logging
+  - Performance: Responstider, skalerbarhed, throughput
+  - Compliance: Regulatoriske krav, GDPR, datacenter-lokation
+  - Availability: Uptime-krav, failover, disaster recovery
+  - Criticality: Hvor kritiske er workflows for forretningen?
+  - Internet access: Kræver workflows internet-adgang eller kun internt netværk?
+
+#### Spørgsmål til diskussion
+
+- Hvilke workflows deler datakilder?
+- Hvor er de største integrationsudfordringer?
+- Hvilke workflows skal prioriteres først baseret på afhængigheder?
+- Hvor kan vi genbruge komponenter på tværs af workflows?
+- Hvilke workflows er mest kritiske for forretningen?
+- Hvor ligger data i dag, og skal det flyttes eller centraliseres?
+- Hvilke workflows kræver realtidsdata vs. batch-opdateringer?
+- Hvilke operationer kan køre i baggrunden uden at brugeren venter?
+- Skal brugeren have besked når asynkrone operationer er færdige?
+- Er der workflows der skal kunne fungere offline eller uden internet?
+- Hvilke sikkerhedskrav er forskellige på tværs af workflows?
+- Hvor komplekse er datavalideringer og forretningsregler?
+- Hvilke workflows har lignende brugergrænseflader som kan standardiseres?
+- Er der afhængigheder til eksterne parter eller leverandører?
+- Hvilke workflows har højest volumen af transaktioner?
+- Hvor er der risiko for flaskehalse i systemet?
+
 ---
 
 ## 📋 Leverancer efter dagen (Conscia)
