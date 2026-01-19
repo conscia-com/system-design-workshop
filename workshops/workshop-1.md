@@ -50,7 +50,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 - Trin (oversigt)
 - Fejl/rollback
 - Åbne spørgsmål/risici
-- Skabelon: [Workflow-skema](skabeloner/workflow-skema.md)
+- Skabelon: [Workflow-skema](skabeloner/workflow-skema-arkitektur.md)
 
 ---
 
@@ -69,7 +69,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 - Hvert par tager ét workflow ad gangen og udfylder workflow-skemaet
 - Udfyld kun det der er sikkert
 - Brug én linje pr. punkt
-- Skabelon: [Workflow-skema](skabeloner/workflow-skema.md)
+- Skabelon: [Workflow-skema](skabeloner/workflow-skema-arkitektur.md)
 
 ---
 
@@ -78,7 +78,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 - Vi vælger de vigtigste workflows at gøre færdige
 - Vi sikrer at formål, udføres af, systemrækkefølge og input/output er tydeligt
 - Åbne spørgsmål skrives under Åbne spørgsmål/risici
-- Skabelon: [Workflow-skema](skabeloner/workflow-skema.md)
+- Skabelon: [Workflow-skema](skabeloner/workflow-skema-arkitektur.md)
 
 ---
 
@@ -88,7 +88,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 
 - Skriv de systemer og integrationer der går igen
 - Notér kun det nødvendige for at kunne tegne arkitektur
-- Skabelon: [Workflow-skema](skabeloner/workflow-skema.md)
+- Skabelon: [Workflow-skema](skabeloner/workflow-skema-arkitektur.md)
 
 ---
 
@@ -101,9 +101,47 @@ Inden for 1–3 arbejdsdage samles og deles:
 
 ---
 
+## 🤖 Brug AI til at lave workflows
+
+### Trin 1: Download materialer
+
+Download eksempler og skabelon fra repo
+
+### Trin 2: Upload til Copilot
+
+Åbn Copilot og træk eksempler og skabelon ind i chatten:
+
+- [workflow-ark-1-vlan-provisionering.md](eksempler/workflow-ark-1-vlan-provisionering.md)
+- [workflow-ark-2-firewall-regel.md](eksempler/workflow-ark-2-firewall-regel.md)
+- [workflow-skema-arkitektur.md](skabeloner/workflow-skema-arkitektur.md)
+
+### Trin 3: Prompt Copilot
+
+Skriv en prompt ala:
+
+```
+Udfyld workflow-skema-arkitektur.md med indholdet: [beskriv dit workflow]
+```
+
+### Trin 4: Eksporter resultatet
+
+Når I er færdig med at rette i indholdet med Copilot, så prompt:
+
+```
+Output som en markdown md fil
+```
+
+### Trin 5: Gem i Teams Planner
+
+1. Download markdown filen
+2. Gå ind i Teams Planner og vælg **"Tilføj opgave"** med workflow overskrift
+3. Åbn opgaven og kopier md-fil indholdet ind i noter feltet
+
+---
+
 ## Skabeloner
 
-- [Skabelon: Workflow-skema](skabeloner/workflow-skema.md)
+- [Skabelon: Workflow-skema (arkitektur)](skabeloner/workflow-skema-arkitektur.md)
 
 ## Til næste gang
 

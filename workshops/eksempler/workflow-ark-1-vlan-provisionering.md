@@ -1,4 +1,4 @@
-# Eksempel: Workflow-skema – VLAN provisioning
+# Eksempel: Workflow-skema (arkitektur) – VLAN provisioning
 
 ## Workflow-navn
 

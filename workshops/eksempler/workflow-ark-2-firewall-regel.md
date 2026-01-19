@@ -1,4 +1,4 @@
-# Eksempel: Workflow-skema – Firewall regelændring
+# Eksempel: Workflow-skema (arkitektur) – Firewall regelændring
 
 ## Workflow-navn
 

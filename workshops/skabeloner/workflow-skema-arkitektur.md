@@ -1,4 +1,4 @@
-# Skabelon: Workflow-skema
+# Skabelon: Workflow-skema (arkitektur)
 
 ## Workflow-navn
 
