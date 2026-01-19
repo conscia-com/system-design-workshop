@@ -1,4 +1,4 @@
-# Skabelon: Workflow-skema UX (bruger- og datafokus)
+# 📝 Skabelon: Workflow-skema UX (bruger- og datafokus)
 
 Beskriv brugerens rejse gennem workflowet ved at gentage følgende flow for hvert trin:
 

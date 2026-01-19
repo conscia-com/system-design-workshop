@@ -1,17 +1,17 @@
-# Workshop 1 (heldag) – Workflows til arkitektur
+# 🏗️ Workshop 1 (heldag) – Workflows til arkitektur
 
-## Målsætning
+## 🎯 Målsætning
 
 Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan bruges direkte som input til systemarkitektur.
 
-## Output
+## 📦 Output
 
 - 1 udfyldt workflow-skema pr. workflow
 - Liste over systemer og integrationer der går igen på tværs af workflows
 
 ---
 
-## Dagsagenda (09:00–15:30)
+## 📅 Dagsagenda (09:00–15:30)
 
 |Tid|Punkt|
 |---|---|
@@ -27,7 +27,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 
 ---
 
-## Slides til gennemgang
+## 🎤 Slides til gennemgang
 
 ### Slide: Opstart
 
@@ -92,7 +92,7 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 
 ---
 
-## Leverancer efter dagen (Conscia)
+## 📋 Leverancer efter dagen (Conscia)
 
 Inden for 1–3 arbejdsdage samles og deles:
 

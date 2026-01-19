@@ -1,10 +1,10 @@
-# Workshop 2 (halv-/heldag) – UX og agil udvikling
+# 🎨 Workshop 2 (halv-/heldag) – UX og agil udvikling
 
-## Målsætning
+## 🎯 Målsætning
 
 Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan agile teams arbejder med at levere værdi til brugeren. Vi bygger videre på de workflows der blev identificeret i Workshop 1, og tilføjer brugerrejsen samt teamorganisering.
 
-## Output
+## 📦 Output
 
 - Forfinede workflows med brugerrejse beskrevet trin for trin
 - Tydelig beskrivelse af hvad brugeren ser, kan vælge, gør, og hvilken feedback de får
@@ -14,7 +14,7 @@ Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan ag
 
 ---
 
-## Dagsagenda (09:00–15:30)
+## 📅 Dagsagenda (09:00–15:30)
 
 |Tid|Punkt|
 |---|---|
@@ -34,7 +34,7 @@ Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan ag
 
 ---
 
-## Slides til gennemgang
+## 🎤 Slides til gennemgang
 
 ### Slide: Opstart og recap
 
@@ -223,7 +223,7 @@ I stedet for at lave én stor plan på forhånd:
 
 ---
 
-## Leverancer efter dagen (Conscia)
+## 📋 Leverancer efter dagen (Conscia)
 
 Inden for 1–3 arbejdsdage samles og deles:
 
@@ -293,6 +293,6 @@ Output som en markdown md fil
 
 ---
 
-## Skabeloner
+## 📝 Skabeloner
 
 - [Skabelon: Workflow-skema UX](skabeloner/workflow-skema-ux.md)
