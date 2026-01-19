@@ -28,8 +28,7 @@ Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan ag
 |13:00–13:20|Del 2: Hvorfor agilt?|
 |13:20–13:45|Del 2: Agile roller og artifacts|
 |13:45–14:00|Pause|
-|14:00–14:30|Brug af AI til transformation af workflows|
-|14:30–15:00|Øvelse: Transformer egne workflows med AI|
+|14:00–15:00|Del 3: Arkitektur – Fra workflows til applikation|
 |15:00–15:30|Afrunding og næste skridt|
 
 ---
@@ -220,6 +219,10 @@ I stedet for at lave én stor plan på forhånd:
   - Skal være klar til at gå i produktion
   - Bygger ovenpå tidligere increments
   - Konkret værdi som kan vises til brugere
+
+---
+
+## Del 3: Arkitektur – Fra workflows til applikation
 
 ---
 
