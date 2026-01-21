@@ -2,7 +2,8 @@
 
 ## 🎯 Målsætning
 
-Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan bruges direkte som input til systemarkitektur.
+Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan bruges direkte som input til
+systemarkitektur.
 
 ## 📦 Output
 
@@ -13,17 +14,17 @@ Dagen bruges på at få de vigtigste workflows beskrevet ensartet, så de kan br
 
 ## 📅 Dagsagenda (09:00–15:30)
 
-|Tid|Punkt|
-|---|---|
-|09:00–09:15|Opstart|
-|09:15–10:30|Workflows runde 1 – Brainstorming|
-|10:30–10:45|Pause|
-|10:45–12:00|Workflows runde 2 – Uddybning|
-|12:00–12:45|Frokost|
-|12:45–14:15|Workflows runde 3 – Prioritering|
-|14:15–14:30|Pause|
-|14:30–15:15|Systemer, integrationer og afhængigheder|
-|15:15–15:30|Afrunding|
+| Tid         | Punkt                                    |
+|-------------|------------------------------------------|
+| 09:00–09:15 | Opstart                                  |
+| 09:15–10:30 | Workflows runde 1 – Brainstorming        |
+| 10:30–10:45 | Pause                                    |
+| 10:45–12:00 | Workflows runde 2 – Uddybning            |
+| 12:00–12:45 | Frokost                                  |
+| 12:45–14:15 | Workflows runde 3 – Prioritering         |
+| 14:15–14:30 | Pause                                    |
+| 14:30–15:15 | Systemer, integrationer og afhængigheder |
+| 15:15–15:30 | Afrunding                                |
 
 ---
 

@@ -2,7 +2,9 @@
 
 ## 🎯 Målsætning
 
-Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan agile teams arbejder med at levere værdi til brugeren. Vi bygger videre på de workflows der blev identificeret i Workshop 1, og tilføjer brugerrejsen samt teamorganisering.
+Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan agile teams arbejder med at levere værdi til
+brugeren. Vi bygger videre på de workflows der blev identificeret i Workshop 1, og tilføjer brugerrejsen samt
+teamorganisering.
 
 ## 📦 Output
 
@@ -16,20 +18,20 @@ Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan ag
 
 ## 📅 Dagsagenda (09:00–15:30)
 
-|Tid|Punkt|
-|---|---|
-|09:00–09:15|Opstart og recap af Workshop 1|
-|09:15–09:45|Del 1: Introduktion til UX-perspektivet|
-|09:45–10:45|Del 1: Øvelse – Forfin workflows med UX-fokus|
-|10:45–11:00|Pause|
-|11:00–12:00|Del 1: Gennemgang og diskussion af workflows|
-|12:00–12:45|Frokost|
-|12:45–13:00|Del 2: Hvad er agil udvikling?|
-|13:00–13:20|Del 2: Hvorfor agilt?|
-|13:20–13:45|Del 2: Agile roller og artifacts|
-|13:45–14:00|Pause|
-|14:00–15:00|Del 3: Arkitektur – Fra workflows til applikation|
-|15:00–15:30|Afrunding og næste skridt|
+| Tid         | Punkt                                             |
+|-------------|---------------------------------------------------|
+| 09:00–09:15 | Opstart og recap af Workshop 1                    |
+| 09:15–09:45 | Del 1: Introduktion til UX-perspektivet           |
+| 09:45–10:45 | Del 1: Øvelse – Forfin workflows med UX-fokus     |
+| 10:45–11:00 | Pause                                             |
+| 11:00–12:00 | Del 1: Gennemgang og diskussion af workflows      |
+| 12:00–12:45 | Frokost                                           |
+| 12:45–13:00 | Del 2: Hvad er agil udvikling?                    |
+| 13:00–13:20 | Del 2: Hvorfor agilt?                             |
+| 13:20–13:45 | Del 2: Agile roller og artifacts                  |
+| 13:45–14:00 | Pause                                             |
+| 14:00–15:00 | Del 3: Arkitektur – Fra workflows til applikation |
+| 15:00–15:30 | Afrunding og næste skridt                         |
 
 ---
 
@@ -48,6 +50,12 @@ Dagen bruges på at forfine workflows fra et UX-perspektiv og forstå hvordan ag
 - **Del 2 – Agil udvikling**: Hvordan teams leverer værdi sammen
 
 ---
+
+## Indledning
+
+### Single Source of Truth
+
+Se [Arkitektur-oversigt](bilag/arkitektur-oversigt.md) for detaljeret beskrivelse af den 4-lagede arkitektur.
 
 ## Del 1: UX-perspektiv
 
@@ -92,7 +100,8 @@ Tag et workflow fra Workshop 1 og beskriv brugerrejsen trin for trin.
 2. Identificer de trin brugeren går igennem
 3. For hvert trin: Udfyld "Du ser", "Du kan vælge", "Du gør", "Der sker", "Hvor kommer data fra"
 4. Brug skabelonen: [Workflow-skema UX](skabeloner/workflow-skema-ux.md)
-5. Se eksempler: [VLAN provisioning](eksempler/workflow-ux-1-vlan-provisionering.md), [Firewall regel](eksempler/workflow-ux-2-firewall-regel.md)
+5. Se
+   eksempler: [VLAN provisioning](eksempler/workflow-ux-1-vlan-provisionering.md), [Firewall regel](eksempler/workflow-ux-2-firewall-regel.md)
 
 #### Tips
 
@@ -167,13 +176,13 @@ I stedet for at lave én stor plan på forhånd:
 
 #### Traditionel vs Agil
 
-| Traditionel | Agil |
-|---|---|
-| Lange projekter (6-12 mdr) | Korte sprints (2-4 uger) |
-| Alt planlægges på forhånd | Tilpasses løbende |
-| Få store leverancer | Mange små leverancer |
-| Tester til sidst | Tester løbende |
-| Dokumentation-fokus | Fungerende software-fokus |
+| Traditionel                | Agil                      |
+|----------------------------|---------------------------|
+| Lange projekter (6-12 mdr) | Korte sprints (2-4 uger)  |
+| Alt planlægges på forhånd  | Tilpasses løbende         |
+| Få store leverancer        | Mange små leverancer      |
+| Tester til sidst           | Tester løbende            |
+| Dokumentation-fokus        | Fungerende software-fokus |
 
 ---
 
@@ -228,7 +237,8 @@ I stedet for at lave én stor plan på forhånd:
 
 #### Formål
 
-Nu hvor vi har identificeret workflows og brugerrejser, skal vi forstå hvordan de hænger sammen som en samlet applikation.
+Nu hvor vi har identificeret workflows og brugerrejser, skal vi forstå hvordan de hænger sammen som en samlet
+applikation.
 
 #### Dimensioner at betragte
 
